@@ -1,0 +1,28 @@
+{
+  "name": "config-express-server",
+  "version": "1.0.0",
+  "description": "express simple server config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NovaYuan/config-express-server.git"
+  },
+  "keywords": [
+    "server",
+    "config"
+  ],
+  "author": "NovaYuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NovaYuan/config-express-server/issues"
+  },
+  "homepage": "https://github.com/NovaYuan/config-express-server#readme",
+  "devDependencies": {
+    "compression": "^1.7.3",
+    "express": "^4.16.3",
+    "http-proxy-middleware": "^0.18.0"
+  }
+}
